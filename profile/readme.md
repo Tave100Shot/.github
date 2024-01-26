@@ -18,7 +18,6 @@
 
 
 ## 💻 개발 환경
----
 #### Web
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -48,10 +47,10 @@
 
 📝 **구글 엔진을 이용하여 다양한 정답 블로그 제시**
 
-- **백준 문제 정보 제공 및 해당 문제에 대한 제출 사이트 링크 제공**
+🚩 **백준 문제 정보 제공 및 해당 문제에 대한 제출 사이트 링크 제공**
 
 🙋 **개인 맞춤형 문제 추천**
 
-- **선택한 문제 기반 문제 추천**
+🙋‍♀️ **선택한 문제 기반 문제 추천**
 
 
