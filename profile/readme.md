@@ -1,9 +1,7 @@
-## TAVE 12th TAVE 100Shot.net
-<br>
-
 ![poster](./img/백발백준로고.png)
 <br>
-
+[📌백발백준 바로가기]("https://100shot.net")
+<br>
 
 ## ✨ 프로젝트 소개 
 
