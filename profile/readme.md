@@ -1,7 +1,6 @@
-![poster](./img/백발백준로고.png)
+![poster](/profile/img/백발백준로고.png)
 
 <br>
-
 [📌백발백준 바로가기](https://100shot.net)
 <br>
 
@@ -17,7 +16,7 @@
 
 ## 😋 멤버 구성
 
-| ![장진영](./img/깃허브_장진영.png)  | ![스티치](./img/스티치11.jpg)|![박정곤](./img/깃허브_박정곤2.png)| ![박현빈](./img/깃허브_박현빈.png)  | ![임준형](./img/깃허브_임준형.png)   |  ![송윤주](./img/깃허브_송윤주.png) |  ![이유진](./img/깃허브_이유진.png) |
+| ![장진영](/profile/img//깃허브_장진영.png)  | ![스티치](/profile/img/스티치11.jpg)|![박정곤](/profile/img/깃허브_박정곤2.png)| ![박현빈](/profile/img/깃허브_박현빈.png)  | ![임준형](/profile/img/깃허브_임준형.png)   |  ![송윤주](/profile/img/깃허브_송윤주.png) |  ![이유진](/profile/img/깃허브_이유진.png) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 장진영  |  김소정  | 박정곤   | 박현빈  | 임준형   | 송윤주  | 이유진  |
 | PM, Frontend   |  Frontend  |  Backend | Backend  | Backend  | DeepLearning  | DeepLearning  |
